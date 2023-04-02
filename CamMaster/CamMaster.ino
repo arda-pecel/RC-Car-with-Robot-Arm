@@ -1,7 +1,5 @@
 /*
-   Author : Emre Şahin
    Date   : 1 Feb 20
-   Email  : arxtechnologies@gmail.com
 */
 #include "WiFi.h"
 #include <esp_now.h>
